@@ -1,5 +1,4 @@
 'use strict';
-// Use Array.prototype.reduce of for loop
 
 // const ar = ip.split('.').reverse();
 // let sum = 0;
